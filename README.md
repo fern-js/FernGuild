@@ -3,6 +3,7 @@
 ![npm](https://img.shields.io/bundlephobia/min/fernguild?label=npm&style=for-the-badge)
 ![git license](https://img.shields.io/github/license/fern-js/FernGuild?style=for-the-badge)
 ![npm version](https://img.shields.io/npm/v/fernguild?style=for-the-badge)
+(These all currently show as not found, but they will work pretty soon)
 
 <img align="right" alt="DiscordGo logo" src="https://user-images.githubusercontent.com/99760654/197892031-5439f715-6501-4bdb-8108-63913ce17d0f.png" width="300">
 
