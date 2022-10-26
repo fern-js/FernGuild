@@ -1,6 +1,8 @@
 # FernGuild
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/bwmarrin/discordgo.svg)](https://pkg.go.dev/github.com/bwmarrin/discordgo) [![Go Report Card](https://goreportcard.com/badge/github.com/bwmarrin/discordgo)](https://goreportcard.com/report/github.com/bwmarrin/discordgo) [![CI](https://github.com/bwmarrin/discordgo/actions/workflows/ci.yml/badge.svg)](https://github.com/bwmarrin/discordgo/actions/workflows/ci.yml) [![Discord Gophers](https://img.shields.io/badge/Discord%20Gophers-%23discordgo-blue.svg)](https://discord.gg/golang) [![Discord API](https://img.shields.io/badge/Discord%20API-%23go_discordgo-blue.svg)](https://discord.com/invite/discord-api)
+![npm](https://img.shields.io/bundlephobia/min/fernguild?label=npm&style=for-the-badge)
+![git license](https://img.shields.io/github/license/fern-js/FernGuild?style=for-the-badge)
+![npm version](https://img.shields.io/npm/v/fernguild?style=for-the-badge)
 
 <img align="right" alt="DiscordGo logo" src="https://user-images.githubusercontent.com/99760654/197892031-5439f715-6501-4bdb-8108-63913ce17d0f.png" width="300">
 
