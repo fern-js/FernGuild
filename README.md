@@ -1,6 +1,7 @@
 <div align="center">
-  <img alt="Atlas logo" src="https://user-images.githubusercontent.com/99760654/198735776-f4b7e8c4-3ae5-4a7d-8757-505edf34e947.png" width="500">
+  <img alt="Atlas logo" src="https://user-images.githubusercontent.com/99760654/198737422-95174d32-d2ac-49a2-9910-fc87165475ad.png" width="500">
 </div>
+
 
 Atlas.js is a [Node.js](//nodejs.org) library that provides a high level way to communicate with the Guilded API. The entire point of Atlas.js is to improve your time making Guilded bots, targetting utter simplicity.
 
