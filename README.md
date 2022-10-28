@@ -4,7 +4,7 @@
 ![git license](https://img.shields.io/github/license/fern-js/FernGuild?style=for-the-badge)
 ![npm version](https://img.shields.io/npm/v/fernguild?style=for-the-badge)
 
-<img align="right" alt="DiscordGo logo" src="https://user-images.githubusercontent.com/99760654/197892031-5439f715-6501-4bdb-8108-63913ce17d0f.png" width="300">
+<img align="right" alt="Atlas logo" src="https://user-images.githubusercontent.com/99760654/197892031-5439f715-6501-4bdb-8108-63913ce17d0f.png" width="300">
 
 FernGuild is a [Node.js](//nodejs.org) library that provides a high level way to communicate with the Guilded API. The entire point of FernGuild is to improve your time making Guilded bots, targetting utter simplicity.
 
