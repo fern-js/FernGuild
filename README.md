@@ -13,7 +13,7 @@ Also, if you are interested in checking out the other Fern projects, make sure t
 ## Getting Started
 
 ### Installation
-FernGuild can simply be installed through the `npm` registry.
+Atlas.js can simply be installed through the `npm` registry.
 ```bash
 npm install atlas.js
 yarn add atlas.js
